@@ -9,3 +9,4 @@ of this part of the entire Imagine Trading Platform and has no documentation.
 The code meant to insert trading curves into to the DB of the trading platform. 
 The sources of the input for the calculation for the yield curves were unknown as well.
 Any failure of the new version of the code would affect the performance of the entire Trading Platform which serves to thousands of users. 
+/Comment/
